@@ -1,6 +1,7 @@
 Currently studying for a master's degree in electronic information at the School of Computer Science and Engineering, Northeastern University, China.
 #### Email
-ghb2002@stumail.edu.cn
+ghb2002@stumail.neu.edu.cn
+
 hbguo02@163.com
 
 #### Education
