@@ -1,7 +1,3 @@
-
-
-[![hb-Guo](https://img.shields.io/badge/hb--Guo-github-blue%3Flogo%3Dgithub)](https://github.com/hb-Guo)
-
 Currently studying for a master's degree in electronic information at the School of Computer Science and Engineering, Northeastern University, China.
 #### Email
 ghb2002@stumail.edu.cn
