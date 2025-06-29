@@ -1,11 +1,11 @@
 
 
-[![hb-Guo](https://img.shields.io/badge/hb--Guo-github-blue%3Flogo%3Dgithub)](https://github.com/senli1073)
+[![hb-Guo](https://img.shields.io/badge/hb--Guo-github-blue%3Flogo%3Dgithub)](https://github.com/hb-Guo)
 
 Currently studying for a master's degree in electronic information at the School of Computer Science and Engineering, Northeastern University, China.
 #### Email
-ghb2002[at]stumail.edu.cn
-hbguo02[at]163.com
+ghb2002@stumail.edu.cn
+hbguo02@163.com
 
 #### Education
 Master of Electronic Information, Computer Technology, Northeastern University(Shenyang), 2023—Now.\
