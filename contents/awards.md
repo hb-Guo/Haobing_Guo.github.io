@@ -1,13 +1,11 @@
-- National Scholarship of Graduate Student, 2024.
+- Outstanding Graduate Student of Northeastern University, 2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- Graduate First-Class Academic Scholarship of Northeastern University, 2024.
 
-- First-prize Scholarship of CUMT, 2023.
+- Graduate Second-Class Academic Scholarship of Northeastern University, 2023.
 
-- Freshman Scholarship of CUMT, 2022.
+- Advanced Individual in Innovation and Entrepreneurship of Liaoning Normal University, 2022.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Excellent Three Good Student of Liaoning Normal University, 2021-2022.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Second Prize Scholarship of Liaoning Normal University , 2020-2021.

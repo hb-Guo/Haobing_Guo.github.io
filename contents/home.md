@@ -1,16 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![hb-Guo](https://img.shields.io/badge/hb--Guo-github-blue%3Flogo%3Dgithub)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
+Currently studying for a master's degree in electronic information at the School of Computer Science and Engineering, Northeastern University, China.
 #### Email
-sli[at]cumt.edu.cn
+ghb2002[at]stumail.edu.cn
+hbguo02[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Master of Electronic Information, Computer Technology, Northeastern University(Shenyang), 2023—Now.\
+Bachelor of Engineering, Computer Science and Technology, Liaoning Normal University(Dalian), 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+1. Supervised Learning
+2. Machine Vision
+3. Natural Language Processing
+4. Wireless Network
